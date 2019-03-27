@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-your-username",
+    name="example-pkg-manupillai308-2",
     version="0.0.1",
-    author="Example Author",
-    author_email="author@example.com",
+    author="Manu S Pillai",
+    author_email="manupillai308@gmail.com",
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/manupillai308/Pypi-first-package",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
